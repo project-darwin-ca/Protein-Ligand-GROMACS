@@ -72,10 +72,3 @@ Each of these MDP files can be used with the `gmx grompp` command in GROMACS to 
    gmx grompp -f MD.mdp -c npt.gro -p topol.top -o md.tpr
    gmx mdrun -v -deffnm md
    ```
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
-
-## Contact
-For questions, bug reports, or help, please contact the repository maintainers.
-
