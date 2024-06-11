@@ -43,9 +43,3 @@ This folder contains scripts that are essential for the preparation and processi
 
 ## License
 These scripts are distributed under the GNU General Public License v3.0.
-
-## Contact
-For questions, bug reports, or help, please contact:
-- **cgenff_charmm2gmx_py3_nx1.py**: Justin Lemkul (jalemkul@vt.edu)
-- **sort_mol2_bonds.pl**: Justin Lemkul (jalemkul@vt.edu)
-
