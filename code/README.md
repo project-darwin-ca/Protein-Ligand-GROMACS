@@ -40,6 +40,3 @@ This folder contains scripts that are essential for the preparation and processi
      1. `input.mol2`: The input .mol2 file.
      2. `output.mol2`: The output .mol2 file with sorted bonds.
    - **Outputs**: Sorted .mol2 file with bonds reordered according to the conventions mentioned above.
-
-## License
-These scripts are distributed under the GNU General Public License v3.0.
